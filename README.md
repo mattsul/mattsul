@@ -28,8 +28,8 @@
 <p align="center">
 <a href = "mailto:matt.sulli@outlook.com"><img src='https://img.icons8.com/color/48/000000/gmail.png' alt='gmail' height='40'></a>
 <a href = https://github.com/mattsul><img src='https://img.icons8.com/color/2x/github--v1.png' alt='github' height='40'></a>
-<a href = https://www.linkedin.com/in/mattsul-2021/><img src='https://img.icons8.com/color/2x/linkedin.png' alt='linkedin' height='40'></a>
-<a href = https://github.com/mattsul><img src="https://img.icons8.com/dusk/64/000000/domain.png" alt="website' height'40/></a>
+<a href = https://www.linkedin.com/in/mattsul-2021><img src='https://img.icons8.com/color/2x/linkedin.png' alt='linkedin' height='40'></a>
+<a href = https://github.com/mattsul><img src="https://img.icons8.com/fluent/48/000000/domain.png" alt='website' height='40'/></a>
 
 
 <!---
