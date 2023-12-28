@@ -1,10 +1,6 @@
 ### 📝 About Me
 - 👋 Hi, I’m @mattsul
-- 👀 I’m interested in enginering research.
-- 🌱 I’m currently learning signal processing in robotics.  
-- 💞️ I’m looking to collaborate on web development. 
-- 📫 How to reach me matt.sulli@outlook.com
-
+- 👀 I’m interested in machine learning research and biomedical application
 ### Languages / Tools
 
 <div>
